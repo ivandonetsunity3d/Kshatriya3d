@@ -1,0 +1,19 @@
+1 fortune 
+удача (chance to hit?)
+Поклонение Будхе и совершение добрых дел по средам приносит удачу и процветание
+
+2 material prosperity$
+процветание (деньги ?)
+(for example +1$ every minute)
+Mine_Gold
+
+= материальные блага$
+Эта мантра приносит материальные и духовные блага, укрепляет силу воли.
+
+3 spiritual prosperity 
+духовные блага
+(+regenerate mana)
+
+4 сила воли
+Will power
++1 to intellect (Magic/Wisdom)
